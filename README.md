@@ -1,0 +1,1 @@
+# Thunderstore plugin updater (JS)
